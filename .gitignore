@@ -23,7 +23,9 @@ yarn-debug.log*
 yarn-error.log*
 
 #firebase
+.idea
+**/node_modules/*
+**/.firebaserc
+.runtimeconfig.json
 .firebase/
-*.firebaserc
-firebase.json
 firebase-config.js
